@@ -1,6 +1,6 @@
 # relogio
 
- Relógio Digital : https://viniciusousa.github.io/calculator/
+ Relógio Digital :https://viniciusousa.github.io/relogio/
  
 <hr>
 
